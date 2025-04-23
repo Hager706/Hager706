@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Hagar</h1>
-<h3 align="center">🚀 DevOps Engineer </h3>
+<h3 align="center"> DevOps Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Platforms+Specialist;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Automation+Lover+%7C+Linux+Fan" alt="Typing SVG" />
@@ -70,9 +70,10 @@
 ---
 ## 🔥 GitHub Stats
 
+## 📈 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Awad&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Awad&layout=compact&theme=onedark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hager706&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hager706&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
