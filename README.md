@@ -29,7 +29,6 @@
 
 #### Cloud Platforms
 <img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://img.shields.io/badge/OpenShift-%23EE0000.svg?&style=flat&logo=redhatopenshift&logoColor=white" />
 
 </div>
 </td><td valign="top" width="33%">
