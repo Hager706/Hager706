@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎯 Passionate about **Infrastructure as Code**, **Cloud Computing**, and **Automation**.
+-🚀 I thrive on building reliable infrastructure, automating everything, and mastering cloud technologies.
 - 🌱 Always learning more about **AWS**, **Kubernetes**, and **CI/CD Pipelines**.
 - ✨ Believe in Continuous Improvement and Collaboration.
 
@@ -41,6 +41,10 @@
 </div>
 </td></tr>
 </table>
+
+---
+## 📄 My CVs
+[![DevOps CV](https://img.shields.io/badge/-DevOps_CV-blue?style=for-the-badge)](./Hager-Tarek-Resume.pdf)
 
 ---
 
