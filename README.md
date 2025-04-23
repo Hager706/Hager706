@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
--🚀 I thrive on building reliable infrastructure, automating everything, and mastering cloud technologies.
+- 🚀 I thrive on building reliable infrastructure, automating everything, and mastering cloud technologies.
 - 🌱 Always learning more about **AWS**, **Kubernetes**, and **CI/CD Pipelines**.
 - ✨ Believe in Continuous Improvement and Collaboration.
 
@@ -68,6 +68,15 @@
 </table>
 
 ---
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Awad&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Awad&layout=compact&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
 ## 📄 My CVs
 [![DevOps CV](https://img.shields.io/badge/-DevOps_CV-blue?style=for-the-badge)](./Hager-Tarek-Resume.pdf)
 
