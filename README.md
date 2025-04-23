@@ -17,27 +17,53 @@
 ## 🛠️ My Tech Stack
 
 <table><tr>
-<td valign="top" width="33%">
-<div align="center">  
- 
-#### Core Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins" />
-
-</div>
-</td><td valign="top" width="33%">
+  
+<td valign="top" width="20%">
 <div align="center">  
 
-#### Cloud Platforms
-<img src="https://skillicons.dev/icons?i=aws" />
+#### Infrastructure as Code
 
+<img src="https://skillicons.dev/icons?i=terraform,ansible" /> 
 </div>
-</td><td valign="top" width="33%">
-<div align="center">
 
-#### Version Control & OS
-<img src="https://skillicons.dev/icons?i=github,git,linux" />
+</td><td valign="top" width="20%">
 
+<div align="center">  
+
+#### Containers & Orchestration  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/> 
 </div>
+
+</td><td valign="top" width="20%">
+
+<div align="center"> 
+
+#### CI/CD & Automation  
+
+<img src="https://skillicons.dev/icons?i=jenkins" /> 
+        <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
+</div>
+
+</td><td valign="top" width="20%">
+
+<div align="center">  
+
+#### Cloud  
+
+<img src="https://skillicons.dev/icons?i=aws" /> 
+</div>
+
+
+</td><td valign="top" width="20%">
+
+<div align="center"> 
+
+#### Operating Systems  
+
+<img src="https://skillicons.dev/icons?i=ubuntu" /> 
+     <img src="https://skillicons.dev/icons?i=redhat" /> 
+</div>
+
 </td></tr>
 </table>
 
