@@ -79,7 +79,7 @@
 ---
 
 ## 📄 My CVs
-[![DevOps CV](https://img.shields.io/badge/-DevOps_CV-blue?style=for-the-badge)](./Hager-Tarek-DevOps Engineer.pdf)
+[![DevOps CV](https://img.shields.io/badge/DevOps_CV-blue?style=for-the-badge)](./Hager-Tarek-DevOps%20Engineer.pdf)
 
 ---
 
