@@ -78,11 +78,6 @@
 
 ---
 
-## 📄 My CVs
-[![DevOps CV](https://img.shields.io/badge/DevOps_CV-blue?style=for-the-badge)](./Hager-Tarek-DevOps%20Engineer.pdf)
-
----
-
 ## 📬 Connect with Me
 <p align="center">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
